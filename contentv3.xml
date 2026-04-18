@@ -1626,36 +1626,18 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="buttonCaption"></string>
              <string value=""></string>
              <string role="key" value="content_w_resourcePaths"></string>
-             <unicode content="true" value="
-&lt;p data-start=&quot;295&quot; data-end=&quot;779&quot; align=&quot;justify&quot;&gt;
-&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;3&quot;&gt;Esta situación de aprendizaje se apoya en metodologías activas que sitúan al alumnado en el centro del proceso educativo, fomentando la participación, la autonomía y la aplicación práctica de los contenidos matemáticos. El trabajo se organiza de manera que los estudiantes construyan conocimiento significativo a través de experiencias contextualizadas, desarrollando competencias cognitivas, sociales y emocionales, y vinculando directamente los aprendizajes con la vida cotidiana.&lt;/font&gt;
-&lt;/p&gt;
-&lt;div align=&quot;justify&quot;&gt;
-&lt;/div&gt;
-&lt;p data-start=&quot;781&quot; data-end=&quot;1059&quot; align=&quot;justify&quot;&gt;
-&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;3&quot;&gt;Se combinan dos enfoques metodológicos complementarios: el aprendizaje cooperativo y el aprendizaje basado en proyectos (ABP), que se integran de manera coherente para favorecer tanto la adquisición de contenidos como el desarrollo de competencias clave y transversales.&lt;/font&gt;
-&lt;/p&gt;
-&lt;h4 data-start=&quot;251&quot; data-end=&quot;286&quot;&gt;&lt;u&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;4&quot;&gt;&lt;span role=&quot;text&quot;&gt;&lt;b data-start=&quot;256&quot; data-end=&quot;286&quot;&gt;1. Aprendizaje cooperativo&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/u&gt;&lt;/h4&gt;
-&lt;p data-start=&quot;288&quot; data-end=&quot;666&quot;&gt;
-&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;3&quot;&gt;El aprendizaje cooperativo permite que el alumnado trabaje de manera conjunta, compartiendo responsabilidades y apoyándose mutuamente para construir conocimiento de forma colaborativa. Esta metodología fomenta la inclusión, el respeto por la diversidad y la participación activa de todos los miembros del grupo, mejorando tanto el rendimiento académico como el clima del aula.&lt;/font&gt;
-&lt;/p&gt;
-&lt;p data-start=&quot;668&quot; data-end=&quot;978&quot;&gt;
-&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;3&quot;&gt;Además, el trabajo cooperativo contribuye al desarrollo de competencias clave como la autonomía en el aprendizaje, la capacidad de resolver conflictos, la toma de decisiones fundamentadas y la habilidad para argumentar y negociar, fortaleciendo tanto las competencias académicas como las sociales del alumnado.&lt;/font&gt;
-&lt;/p&gt;
+             <unicode content="true" value="&lt;p data-start=&quot;295&quot; data-end=&quot;779&quot; align=&quot;justify&quot; style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: medium;&quot;&gt;Esta situación de aprendizaje se apoya en metodologías activas que sitúan al alumnado en el centro del proceso educativo, fomentando la participación, la autonomía y la aplicación práctica de los contenidos matemáticos. El trabajo se organiza de manera que los estudiantes construyan conocimiento significativo a través de experiencias contextualizadas, desarrollando competencias cognitivas, sociales y emocionales, y vinculando directamente los aprendizajes con la vida cotidiana.&lt;/span&gt;&lt;/p&gt;
+&lt;div align=&quot;justify&quot; style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;
+&lt;p data-start=&quot;781&quot; data-end=&quot;1059&quot; align=&quot;justify&quot; style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: medium;&quot;&gt;Se combinan dos enfoques metodológicos complementarios: el aprendizaje cooperativo y el aprendizaje basado en proyectos (ABP), que se integran de manera coherente para favorecer tanto la adquisición de contenidos como el desarrollo de competencias clave y transversales.&lt;/span&gt;&lt;/p&gt;
+&lt;h4 data-start=&quot;251&quot; data-end=&quot;286&quot; style=&quot;text-align: justify;&quot;&gt;&lt;u&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: large;&quot;&gt;&lt;span role=&quot;text&quot;&gt;&lt;b data-start=&quot;256&quot; data-end=&quot;286&quot;&gt;1. Aprendizaje cooperativo&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;/h4&gt;
+&lt;p data-start=&quot;288&quot; data-end=&quot;666&quot; style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: medium;&quot;&gt;El aprendizaje cooperativo permite que el alumnado trabaje de manera conjunta, compartiendo responsabilidades y apoyándose mutuamente para construir conocimiento de forma colaborativa. Esta metodología fomenta la inclusión, el respeto por la diversidad y la participación activa de todos los miembros del grupo, mejorando tanto el rendimiento académico como el clima del aula.&lt;/span&gt;&lt;/p&gt;
+&lt;p data-start=&quot;668&quot; data-end=&quot;978&quot; style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: medium;&quot;&gt;Además, el trabajo cooperativo contribuye al desarrollo de competencias clave como la autonomía en el aprendizaje, la capacidad de resolver conflictos, la toma de decisiones fundamentadas y la habilidad para argumentar y negociar, fortaleciendo tanto las competencias académicas como las sociales del alumnado.&lt;/span&gt;&lt;/p&gt;
 &lt;hr data-start=&quot;980&quot; data-end=&quot;983&quot; /&gt;
-&lt;h4 data-start=&quot;985&quot; data-end=&quot;1034&quot;&gt;&lt;u&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;4&quot;&gt;&lt;span role=&quot;text&quot;&gt;&lt;b data-start=&quot;990&quot; data-end=&quot;1034&quot;&gt;2. Aprendizaje basado en proyectos (ABP)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/u&gt;&lt;/h4&gt;
-&lt;p data-start=&quot;1036&quot; data-end=&quot;1313&quot; align=&quot;justify&quot;&gt;
-&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;3&quot;&gt;El Aprendizaje Basado en Proyectos (ABP) se adapta de manera natural a esta situación de aprendizaje, ya que plantea un problema real que el alumnado debe resolver mediante investigación, planificación y ejecución de un proyecto: el diseño y decoración de una casa de verano.&lt;/font&gt;
-&lt;/p&gt;
-&lt;div align=&quot;justify&quot;&gt;
-&lt;/div&gt;
-&lt;p data-start=&quot;1315&quot; data-end=&quot;1781&quot; align=&quot;justify&quot;&gt;
-&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;3&quot;&gt;Esta metodología promueve la autonomía, la creatividad y el pensamiento crítico, integrando contenidos de distintas áreas de forma significativa. Al contar con productos finales concretos —una infografía con cálculos y elementos interactivos y un podcast de reflexión sobre el proceso de aprendizaje— el alumnado se siente motivado y comprometido, conectando los aprendizajes con competencias transversales y con los Objetivos de Desarrollo Sostenible (ODS).&lt;/font&gt;
-&lt;/p&gt;
-&lt;p data-start=&quot;781&quot; data-end=&quot;1059&quot; align=&quot;justify&quot;&gt;
-&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;3&quot;&gt; &lt;/font&gt;
-&lt;/p&gt;
-"></unicode>
+&lt;h4 data-start=&quot;985&quot; data-end=&quot;1034&quot; style=&quot;text-align: justify;&quot;&gt;&lt;u&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: large;&quot;&gt;&lt;span role=&quot;text&quot;&gt;&lt;b data-start=&quot;990&quot; data-end=&quot;1034&quot;&gt;2. Aprendizaje basado en proyectos (ABP)&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;/h4&gt;
+&lt;p data-start=&quot;1036&quot; data-end=&quot;1313&quot; align=&quot;justify&quot; style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: medium;&quot;&gt;El Aprendizaje Basado en Proyectos (ABP) se adapta de manera natural a esta situación de aprendizaje, ya que plantea un problema real que el alumnado debe resolver mediante investigación, planificación y ejecución de un proyecto: el diseño y decoración de una casa de verano.&lt;/span&gt;&lt;/p&gt;
+&lt;div align=&quot;justify&quot; style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;
+&lt;p data-start=&quot;1315&quot; data-end=&quot;1781&quot; align=&quot;justify&quot; style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: medium;&quot;&gt;Esta metodología promueve la autonomía, la creatividad y el pensamiento crítico, integrando contenidos de distintas áreas de forma significativa. Al contar con productos finales concretos —una infografía con cálculos y elementos interactivos y un podcast de reflexión sobre el proceso de aprendizaje— el alumnado se siente motivado y comprometido, conectando los aprendizajes con competencias transversales y con los Objetivos de Desarrollo Sostenible (ODS).&lt;/span&gt;&lt;/p&gt;
+&lt;p data-start=&quot;781&quot; data-end=&quot;1059&quot; align=&quot;justify&quot; style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: medium;&quot;&gt; &lt;/span&gt;&lt;/p&gt;"></unicode>
              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
              <int value="4"></int>
              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -2083,60 +2065,27 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="buttonCaption"></string>
              <string value=""></string>
              <string role="key" value="content_w_resourcePaths"></string>
-             <unicode content="true" value="
-&lt;div align=&quot;justify&quot;&gt;
-&lt;/div&gt;
-&lt;p data-start=&quot;291&quot; data-end=&quot;728&quot; align=&quot;justify&quot;&gt;
-&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;3&quot;&gt;Las actividades complementarias y extraescolares complementan y amplían los aprendizajes desarrollados en el aula, acercando al alumnado a experiencias reales y significativas en su entorno cercano. Se pretende fomentar la creatividad, la autonomía, la colaboración y la aplicación práctica de los contenidos matemáticos, así como la conciencia sobre la sostenibilidad y la vinculación con los Objetivos de Desarrollo Sostenible (ODS).&lt;/font&gt;
-&lt;/p&gt;
-&lt;table class=&quot;MsoNormalTable&quot; style=&quot;border: medium none ; width: 100.06%; border-collapse: collapse&quot; border=&quot;1&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;100%&quot;&gt;
-	&lt;tbody&gt;
-		&lt;tr style=&quot;height: 13.65pt&quot;&gt;
-			&lt;td style=&quot;border: 1pt solid black; padding: 0cm 5.4pt; width: 100%; height: 13.65pt&quot; width=&quot;100%&quot;&gt;
-			&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-top: 6pt; text-align: center&quot; align=&quot;center&quot;&gt;
-			&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;3&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 14pt&quot;&gt;&lt;font size=&quot;4&quot;&gt;Actividades
-			complementarias y extraescolares&lt;/font&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;
-			&lt;/p&gt;
-			&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr style=&quot;height: 13.65pt&quot;&gt;
-			&lt;td style=&quot;border-style: none solid solid; border-color: -moz-use-text-color black black; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 100%; height: 13.65pt&quot; width=&quot;100%&quot;&gt;
-			&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-top: 6pt&quot;&gt;
-			&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;3&quot;&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;&lt;span&gt; &lt;/span&gt;- &lt;/span&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;Visitas a espacios de arquitectura y diseño en Asturias:&lt;/span&gt;&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt; recorridos por lugares como el Centro Niemeyer de Avilés,
-			el Museo de Bellas Artes de Oviedo o casas históricas asturianas (por
-			ejemplo, las casas de Indianos en Colombres), para observar ejemplos de
-			distribución de espacios, decoración y uso de colores.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/font&gt;
-			&lt;/p&gt;
-			&lt;p class=&quot;MsoNormal&quot;&gt;
-			&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;3&quot;&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;- &lt;/span&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;Talleres de pintura y diseño gráfico&lt;/span&gt;&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt; sesiones prácticas en
-			colaboración con artistas locales o a través de talleres organizados en
-			LeroyMerlin o IKEA, donde el alumnado experimenta con paletas de colores,
-			texturas, herramientas digitales (Canva, LiteCad) y aplicación de escalas&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/font&gt;
-			&lt;/p&gt;
-			&lt;p class=&quot;MsoNormal&quot;&gt;
-			&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;3&quot;&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;- &lt;/span&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;Proyectos de sostenibilidad&lt;/span&gt;&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;b&gt;&lt;i&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;:&lt;/span&gt;&lt;/i&gt;&lt;/b&gt;&lt;i&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt; &lt;/span&gt;&lt;/i&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;análisis de materiales y soluciones sostenibles propias de
-			la región, como pinturas ecológicas o maderas certificadas, reforzando la
-			conciencia ambiental y el consumo responsable.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/font&gt;
-			&lt;/p&gt;
-			&lt;p class=&quot;MsoNormal&quot;&gt;
-			&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;3&quot;&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;- &lt;/span&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;Participación en concursos de diseño o proyectos STEAM:&lt;/span&gt;&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt; actividades que permiten aplicar los aprendizajes en
-			contextos motivadores y competitivos, como la creación de infografías o
-			podcasts, vinculados a iniciativas educativas de Asturias. &lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/font&gt;
-			&lt;/p&gt;
-			&lt;p class=&quot;MsoNormal&quot;&gt;
-			&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;3&quot;&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;- &lt;/span&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;Charlas y orientación profesional:&lt;/span&gt;&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt; intervenciones de arquitectos, diseñadores de interiores o
-			ingenieros asturianos que muestren cómo aplican las matemáticas y la
-			planificación en su profesión, reforzando la conexión con la vida real y las
-			salidas profesionales.&lt;/span&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/font&gt;
-			&lt;/p&gt;
-			&lt;/td&gt;
-		&lt;/tr&gt;
-	&lt;/tbody&gt;
+             <unicode content="true" value="&lt;div align=&quot;justify&quot;&gt;&lt;/div&gt;
+&lt;p data-start=&quot;291&quot; data-end=&quot;728&quot; align=&quot;justify&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: medium;&quot;&gt;Las actividades complementarias y extraescolares complementan y amplían los aprendizajes desarrollados en el aula, acercando al alumnado a experiencias reales y significativas en su entorno cercano. Se pretende fomentar la creatividad, la autonomía, la colaboración y la aplicación práctica de los contenidos matemáticos, así como la conciencia sobre la sostenibilidad y la vinculación con los Objetivos de Desarrollo Sostenible (ODS).&lt;/span&gt;&lt;/p&gt;
+&lt;table class=&quot;MsoNormalTable&quot; style=&quot;width: 100.06%; border-collapse: collapse;&quot; border=&quot;1&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;100%&quot;&gt;
+&lt;tbody&gt;
+&lt;tr style=&quot;height: 13.65pt;&quot;&gt;
+&lt;td style=&quot;border: 1pt solid black; padding: 0cm 5.4pt; width: 100%; height: 13.65pt;&quot; width=&quot;100%&quot;&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-top: 6pt; text-align: center;&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: medium;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;span style=&quot;font-size: large;&quot;&gt;Actividades complementarias y extraescolares&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 13.65pt;&quot;&gt;
+&lt;td style=&quot;border-style: none solid solid; border-color: -moz-use-text-color black black; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 100%; height: 13.65pt;&quot; width=&quot;100%&quot;&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-top: 6pt; text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: medium;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;span&gt; &lt;/span&gt;- &lt;/span&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Visitas a espacios de arquitectura y diseño en Asturias:&lt;/span&gt;&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt; recorridos por lugares como el Centro Niemeyer de Avilés, el Museo de Bellas Artes de Oviedo o casas históricas asturianas (por ejemplo, las casas de Indianos en Colombres), para observar ejemplos de distribución de espacios, decoración y uso de colores.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: medium;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;- &lt;/span&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Talleres de pintura y diseño gráfico&lt;/span&gt;&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt; sesiones prácticas en colaboración con artistas locales o a través de talleres organizados en LeroyMerlin o IKEA, donde el alumnado experimenta con paletas de colores, texturas, herramientas digitales (Canva, LiteCad) y aplicación de escalas&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: medium;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;- &lt;/span&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Proyectos de sostenibilidad&lt;/span&gt;&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;b&gt;&lt;i&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;:&lt;/span&gt;&lt;/i&gt;&lt;/b&gt;&lt;i&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt; &lt;/span&gt;&lt;/i&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;análisis de materiales y soluciones sostenibles propias de la región, como pinturas ecológicas o maderas certificadas, reforzando la conciencia ambiental y el consumo responsable.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: medium;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;- &lt;/span&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Participación en concursos de diseño o proyectos STEAM:&lt;/span&gt;&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt; actividades que permiten aplicar los aprendizajes en contextos motivadores y competitivos, como la creación de infografías o podcasts, vinculados a iniciativas educativas de Asturias. &lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: medium;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;- &lt;/span&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Charlas y orientación profesional:&lt;/span&gt;&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt; intervenciones de arquitectos, diseñadores de interiores o ingenieros asturianos que muestren cómo aplican las matemáticas y la planificación en su profesión, reforzando la conexión con la vida real y las salidas profesionales.&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p data-start=&quot;291&quot; data-end=&quot;728&quot; align=&quot;justify&quot;&gt;
-&amp;nbsp;
-&lt;/p&gt;
-"></unicode>
+&lt;p data-start=&quot;291&quot; data-end=&quot;728&quot; align=&quot;justify&quot;&gt; &lt;/p&gt;"></unicode>
              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
              <int value="4"></int>
              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -2412,7 +2361,7 @@ text through the text editing buttons associated with the field."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="31"></reference>
+  <reference key="10"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
