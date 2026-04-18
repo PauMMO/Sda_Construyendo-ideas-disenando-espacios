@@ -3,7 +3,7 @@
 <instance xmlns="http://www.exelearning.org/content/v0.3" reference="4" version="0.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.exelearning.org/content/v0.3 content.xsd" class="exe.engine.package.Package">
  <dictionary>
   <string role="key" value="_title"></string>
-  <unicode value="¡DECORANDO NUESTRA CASA DE VERANO!"></unicode>
+  <unicode value="Sda. CONSTRUYENDO IDEAS, DISEÑANDO ESPACIOS"></unicode>
   <string role="key" value="idevices"></string>
   <list></list>
   <string role="key" value="_addAccessibilityToolbar"></string>
@@ -132,8 +132,7 @@ text through the text editing buttons associated with the field."></unicode>
           <string role="key" value="buttonCaption"></string>
           <string value=""></string>
           <string role="key" value="content_w_resourcePaths"></string>
-          <unicode content="true" value="&lt;h1 data-start=&quot;207&quot; data-end=&quot;605&quot;&gt;&lt;span style=&quot;font-family: 'arial black', sans-serif;&quot;&gt;S.A.: Construyendo ideas, diseñando espacios&lt;/span&gt;&lt;/h1&gt;
-&lt;p data-start=&quot;207&quot; data-end=&quot;605&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: medium;&quot;&gt;Esta &lt;u&gt;situación de aprendizaje&lt;/u&gt; está diseñada para que el alumnado de 2.º de ESO ponga en práctica sus conocimientos matemáticos en contextos cercanos y significativos. A través del diseño y la planificación de una casa de verano, el alumnado abordará el cálculo de áreas aplicado al pintado de una fachada, así como el uso de escalas para la distribución y amueblamiento de los espacios interiores. &lt;/span&gt;&lt;/p&gt;
+          <unicode content="true" value="&lt;p data-start=&quot;207&quot; data-end=&quot;605&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: medium;&quot;&gt;Esta &lt;u&gt;situación de aprendizaje&lt;/u&gt; está diseñada para que el alumnado de 2.º de ESO ponga en práctica sus conocimientos matemáticos en contextos cercanos y significativos. A través del diseño y la planificación de una casa de verano, el alumnado abordará el cálculo de áreas aplicado al pintado de una fachada, así como el uso de escalas para la distribución y amueblamiento de los espacios interiores. &lt;/span&gt;&lt;/p&gt;
 &lt;p data-start=&quot;607&quot; data-end=&quot;802&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: medium;&quot;&gt; De este modo, se favorece el desarrollo del razonamiento lógico, la resolución de problemas y la toma de decisiones fundamentadas, conectando las matemáticas con situaciones de la vida cotidiana. &lt;/span&gt;&lt;/p&gt;
 &lt;p data-start=&quot;804&quot; data-end=&quot;1184&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: medium;&quot;&gt; Asimismo, el proyecto se llevará a cabo mediante trabajo en grupo, lo que permitirá potenciar la cooperación, la comunicación efectiva y el respeto hacia las aportaciones de los demás. Se prestará especial atención a aspectos como la organización del trabajo, el reparto equitativo de tareas y el grado de implicación de cada integrante en la consecución de los objetivos comunes. &lt;/span&gt;&lt;/p&gt;
 &lt;hr data-start=&quot;1186&quot; data-end=&quot;1189&quot; /&gt;
@@ -1962,60 +1961,25 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="buttonCaption"></string>
              <string value=""></string>
              <string role="key" value="content_w_resourcePaths"></string>
-             <unicode content="true" value="
-&lt;p align=&quot;justify&quot;&gt;
-&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;3&quot;&gt;La presente situación
-de aprendizaje se articula de manera coherente con los planes y proyectos del
-centro, contribuyendo al desarrollo integral del alumnado. Las actividades
-propuestas no solo refuerzan los aprendizajes matemáticos, sino que también fomentan
-valores, competencias transversales y actitudes inclusivas, promoviendo la
-participación activa y responsable dentro del entorno educativo.&lt;/font&gt;
-&lt;/p&gt;
-&lt;table class=&quot;MsoNormalTable&quot; style=&quot;border: medium none ; border-collapse: collapse&quot; align=&quot;justify&quot; border=&quot;1&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; height=&quot;218&quot; width=&quot;1272&quot;&gt;
-	&lt;tbody&gt;
-		&lt;tr style=&quot;height: 13.65pt&quot;&gt;
-			&lt;td style=&quot;border: 1pt solid black; padding: 0cm 5.4pt; width: 100%; height: 13.65pt&quot; width=&quot;100%&quot;&gt;
-			&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-top: 6pt; text-align: center&quot; align=&quot;center&quot;&gt;
-			&lt;font size=&quot;4&quot;&gt;&lt;b&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot;&gt;Vinculación con planes, programas y proyectos de
-			centro&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;br /&gt;
-			&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;3&quot;&gt;&lt;b&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/b&gt;&lt;/font&gt;
-			&lt;/p&gt;
-			&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr style=&quot;height: 13.65pt&quot;&gt;
-			&lt;td style=&quot;border-style: none solid solid; border-color: -moz-use-text-color black black; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 100%; height: 13.65pt&quot; width=&quot;100%&quot;&gt;
-			&lt;p class=&quot;MsoNormal&quot;&gt;
-			&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;3&quot;&gt; &lt;span style=&quot;font-size: 12pt&quot;&gt; - &lt;/span&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Plan Integral de Convivencia (PIC):&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt; se realizarán actividades que favorezcan la relación de
-			todos los miembros del grupo clase, promoviendo el respeto, la tolerancia y
-			la igualdad entre personas de diferentes culturas y géneros.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/font&gt;
-			&lt;/p&gt;
-			&lt;p class=&quot;MsoNormal&quot;&gt;
-			&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;3&quot;&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;- &lt;/span&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Plan de Igualdad de género, no discriminación y equidad:&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt; las dinámicas de grupo y la organización de roles en la
-			actividad de diseño y decoración de la casa contribuyen a garantizar la
-			participación equitativa de todo el alumnado, promoviendo un entorno
-			inclusivo y respetuoso.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/font&gt;
-			&lt;/p&gt;
-			&lt;p class=&quot;MsoNormal&quot;&gt;
-			&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;3&quot;&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;- &lt;/span&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Plan de Lectura, Escritura e Investigación (PLEI):&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt; se fomentará la lectura y el análisis de información en
-			distintas fuentes, desarrollando la comprensión lectora y la capacidad de
-			síntesis.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/font&gt;
-			&lt;/p&gt;
-			&lt;p class=&quot;MsoNormal&quot;&gt;
-			&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;3&quot;&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;- &lt;/span&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Plan de Digitalización:&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt; se
-			trabajará la competencia digital del alumnado utilizando software de cálculo,
-			hojas de cálculo y diseño (Excel, Canva o herramientas equivalentes),
-			integrando la tecnología en la resolución de problemas prácticos.&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/font&gt;
-			&lt;/p&gt;
-			&lt;/td&gt;
-		&lt;/tr&gt;
-	&lt;/tbody&gt;
+             <unicode content="true" value="&lt;p align=&quot;justify&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: medium;&quot;&gt;La presente situación de aprendizaje se articula de manera coherente con los planes y proyectos del centro, contribuyendo al desarrollo integral del alumnado. Las actividades propuestas no solo refuerzan los aprendizajes matemáticos, sino que también fomentan valores, competencias transversales y actitudes inclusivas, promoviendo la participación activa y responsable dentro del entorno educativo.&lt;/span&gt;&lt;/p&gt;
+&lt;table border=&quot;1&quot; style=&quot;height: 273px; width: 100%; border-style: solid; border-color: #000000;&quot; height=&quot;273&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 1225px; text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 14pt;&quot;&gt;Vinculación con planes, programas y proyectos de centro&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;width: 1225px;&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;Plan Integral de Convivencia (PIC):&lt;/em&gt;&lt;/span&gt; se realizarán actividades que favorezcan la relación de todos los miembros del grupo clase, promoviendo el respeto, la tolerancia y la igualdad entre personas de diferentes culturas y géneros.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Plan de Igualdad de género, no discriminación y equidad:&lt;/span&gt;&lt;/em&gt; las dinámicas de grupo y la organización de roles en la actividad de diseño y decoración de la casa contribuyen a garantizar la participación equitativa de todo el alumnado, promoviendo un entorno inclusivo y respetuoso.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;Plan de Lectura, Escritura e Investigación (PLEI):&lt;/em&gt;&lt;/span&gt; se fomentará la lectura y el análisis de información en distintas fuentes, desarrollando la comprensión lectora y la capacidad de síntesis.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Plan de Digitalización:&lt;/span&gt;&lt;/em&gt; se trabajará la competencia digital del alumnado utilizando software de cálculo, hojas de cálculo y diseño (Excel, Canva o herramientas equivalentes), integrando la tecnología en la resolución de problemas prácticos.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
-&lt;div align=&quot;justify&quot;&gt;
-&lt;/div&gt;
-&lt;p align=&quot;justify&quot;&gt;
-&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;3&quot;&gt;&lt;/font&gt;
-&lt;/p&gt;
-"></unicode>
+&lt;p&gt;&lt;/p&gt;"></unicode>
              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
              <int value="4"></int>
              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -2454,7 +2418,7 @@ text through the text editing buttons associated with the field."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="22"></reference>
+  <reference key="25"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -2485,7 +2449,7 @@ text through the text editing buttons associated with the field."></unicode>
     <string role="key" value="subject"></string>
     <unicode value=""></unicode>
     <string role="key" value="title"></string>
-    <unicode value="¡DECORANDO NUESTRA CASA DE VERANO!"></unicode>
+    <unicode value="Sda. CONSTRUYENDO IDEAS, DISEÑANDO ESPACIOS"></unicode>
     <string role="key" value="type"></string>
     <unicode value=""></unicode>
    </dictionary>
@@ -2808,7 +2772,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="language"></string>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="\xc2\xa1DECORANDO NUESTRA CASA DE VERANO!"></string>
+           <string value="Sda. CONSTRUYENDO IDEAS, DISE\xc3\x91ANDO ESPACIOS"></string>
           </dictionary>
          </instance>
         </list>
@@ -3404,7 +3368,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="language"></string>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="\xc2\xa1DECORANDO NUESTRA CASA DE VERANO!"></string>
+           <string value="Sda. CONSTRUYENDO IDEAS, DISE\xc3\x91ANDO ESPACIOS"></string>
           </dictionary>
          </instance>
         </list>
